@@ -1,0 +1,8 @@
+
+
+OTP (XOR)
+einfaches XOR wird mit dem Binär Text einfach XOR genommen 
+(XOR + To Hex)
+https://gchq.github.io/CyberChef/#recipe=XOR(%7B'option':'Hex','string':''%7D,'Standard',false)To_Hex('None',0)
+
+
